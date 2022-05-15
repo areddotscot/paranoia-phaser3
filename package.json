@@ -1,0 +1,27 @@
+{
+  "name": "@areddotscot/paranoia-phaser3",
+  "version": "0.0.1",
+  "description": "A game about Paranoia written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areddotscot/paranoia-phaser3.git"
+  },
+  "keywords": [
+    "game",
+    "typescript",
+    "phaser",
+    "phaser3",
+    "webgl",
+    "canvas"
+  ],
+  "author": "John Andrew Loudon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/areddotscot/paranoia-phaser3/issues"
+  },
+  "homepage": "https://github.com/areddotscot/paranoia-phaser3#readme"
+}
